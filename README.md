@@ -8,3 +8,5 @@
 	今天安装了Sublime Text3 , 感觉灰常好用，可能之前没见过这么好的文本编辑器吧。
 
 	学习了GitHub的初级使用方法
+
+![](https://pic1.zhimg.com/80/6c22d708def21094956b76bc7df2240b_hd.jpg)
