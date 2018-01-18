@@ -11,4 +11,7 @@
 
 	参考文档：
 	使用GitHub进行团队合作
-http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/
+	http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/
+
+	献给写作者的 Markdown 新手指南
+	https://www.jianshu.com/p/q81RER
