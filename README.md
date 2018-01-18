@@ -9,4 +9,6 @@
 
 	学习了GitHub的初级使用方法
 
-![](https://pic1.zhimg.com/80/6c22d708def21094956b76bc7df2240b_hd.jpg)
+	参考文档：
+	使用GitHub进行团队合作
+http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/
